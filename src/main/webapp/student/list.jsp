@@ -11,7 +11,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<a href="/students" >Danh sách học viên</a>
+<h5><a href="/students" >Danh sách học viên</a></h5>
 <h5><a href="/students?action=create">Thêm học viên mới</a></h5>
 <h5><a href="/students?action=sort"> Sắp xếp học viên theo tên</a></h5>
 <form action="/students?action=search" method="post">
